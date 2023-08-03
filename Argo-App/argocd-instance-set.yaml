@@ -5,7 +5,7 @@ metadata:
 spec:
   generators:
   - git:
-      repoURL: https://github.com/rhilconsultants/app-helm-argocd.git
+      repoURL: https://github.com/Destorntw/Multi-ArgoCD.git
       revision: main
       directories:
       - path: Argocd-instances/layers/*
