@@ -1,1 +1,1 @@
-# app-helm-argocd
+# Multi-ArgoCD
